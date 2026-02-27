@@ -20,6 +20,7 @@
 
 ## 🔧 Стек
 
+
 - **Frontend:** React 18 · Next.js 15 (App Router) · TypeScript · TanStack Query · Zustand · Tailwind CSS
 - **Styles**: TailwindCSS · Styled Components · CSS/SCSS
 - **Animations**: GSAP · Framer-Motion
@@ -39,16 +40,22 @@
 
 ## 🚀 Будущие проекты
 
-### Личный кабинет для малого бизнеса с AI интеграциями
+- **Личный кабинет для малого бизнеса с AI интеграциями**
 
-### Каталог для fashion tech студии
-
----
+- **Каталог для fashion tech студии**
 
 ## 📈 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=midnight-light&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midnight-light&layout=compact&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-tf19.vercel.app/api?username=midnight-light&show_icons=true&theme=dark&hide_border=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-tf19.vercel.app/api/top-langs/?username=midnight-light&layout=compact&theme=dark&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
